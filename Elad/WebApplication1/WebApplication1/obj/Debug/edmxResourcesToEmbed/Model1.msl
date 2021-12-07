@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EladModelStoreContainer" CdmEntityContainer="EladEntities">
+    <EntitySetMapping Name="City">
+      <EntityTypeMapping TypeName="EladModel.City">
+        <MappingFragment StoreEntitySet="City">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NameCity" ColumnName="NameCity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Street">
+      <EntityTypeMapping TypeName="EladModel.Street">
+        <MappingFragment StoreEntitySet="Street">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NameStreet" ColumnName="NameStreet" />
+          <ScalarProperty Name="CityID" ColumnName="CityID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="CreateCity" FunctionName="EladModel.Store.CreateCity" />
+    <FunctionImportMapping FunctionImportName="CreateStreet" FunctionName="EladModel.Store.CreateStreet" />
+    <FunctionImportMapping FunctionImportName="DeleteCity" FunctionName="EladModel.Store.DeleteCity" />
+    <FunctionImportMapping FunctionImportName="GetStreetsByCityId" FunctionName="EladModel.Store.GetStreetsByCityId">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EladModel.GetStreetsByCityId_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NameStreet" ColumnName="NameStreet" />
+          <ScalarProperty Name="CityID" ColumnName="CityID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

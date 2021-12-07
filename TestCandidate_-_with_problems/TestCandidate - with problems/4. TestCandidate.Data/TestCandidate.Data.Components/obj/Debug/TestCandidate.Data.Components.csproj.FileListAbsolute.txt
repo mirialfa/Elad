@@ -1,0 +1,21 @@
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.pdb
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\5. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.pdb
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.pdb
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.pdb
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.dll
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.pdb
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.csprojAssemblyReference.cache
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.csproj.CoreCompileInputs.cache
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.dll
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.pdb
+C:\Users\USER\Downloads\TestCandidate_-_with_problems\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.dll
+C:\Users\USER\Downloads\TestCandidate_-_with_problems\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\bin\Debug\TestCandidate.Data.Components.pdb
+C:\Users\USER\Downloads\TestCandidate_-_with_problems\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\TestCandidate_-_with_problems\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.dll
+C:\Users\USER\Downloads\TestCandidate_-_with_problems\TestCandidate - with problems\4. TestCandidate.Data\TestCandidate.Data.Components\obj\Debug\TestCandidate.Data.Components.pdb

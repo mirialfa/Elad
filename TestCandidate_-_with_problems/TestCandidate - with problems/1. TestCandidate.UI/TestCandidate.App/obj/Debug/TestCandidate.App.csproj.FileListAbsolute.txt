@@ -1,0 +1,40 @@
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.App.exe.config
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.App.exe
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.App.pdb
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\bin\Debug\Logger.dll
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.BL.Logic.dll
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.Data.Components.dll
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.BL.Logic.pdb
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\bin\Debug\Logger.pdb
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.Data.Components.pdb
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.exe
+C:\Guy\CodeSamples\TestCandidate\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.pdb
+C:\Guy\CodeSamples\TestCandidate - Copy (2)\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.App.exe.config
+C:\Guy\CodeSamples\TestCandidate - Copy (2)\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.exe
+C:\Guy\CodeSamples\TestCandidate - Copy (2)\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.pdb
+C:\Guy\CodeSamples\TestCandidate - Copy (2)\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate - Copy (2) - Copy - Copy\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.App.exe.config
+C:\Guy\CodeSamples\TestCandidate - Copy (2) - Copy - Copy\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.exe
+C:\Guy\CodeSamples\TestCandidate - Copy (2) - Copy - Copy\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.pdb
+C:\Guy\CodeSamples\TestCandidate - Copy (2) - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate - Copy (2) - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.exe
+C:\Guy\CodeSamples\TestCandidate - Copy (2) - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.pdb
+C:\Guy\CodeSamples\TestCandidate - Copy (2) - with problems\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.App.exe.config
+C:\Guy\CodeSamples\Final TestCandidate\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\Final TestCandidate\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.exe
+C:\Guy\CodeSamples\Final TestCandidate\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.pdb
+C:\Guy\CodeSamples\Final TestCandidate\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.App.exe.config
+C:\GuyS\General EladSystems\ראיונות עבודה\מבחן למועמדים חדשים\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.App.exe.config
+C:\GuyS\General EladSystems\ראיונות עבודה\מבחן למועמדים חדשים\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.exe
+C:\GuyS\General EladSystems\ראיונות עבודה\מבחן למועמדים חדשים\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.pdb
+C:\GuyS\General EladSystems\ראיונות עבודה\מבחן למועמדים חדשים v2.0\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\bin\Debug\TestCandidate.App.exe.config
+C:\GuyS\General EladSystems\ראיונות עבודה\מבחן למועמדים חדשים v2.0\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.exe
+C:\GuyS\General EladSystems\ראיונות עבודה\מבחן למועמדים חדשים v2.0\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.pdb
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.csprojAssemblyReference.cache
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.csproj.CoreCompileInputs.cache
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.exe
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.pdb
+C:\Users\USER\Downloads\TestCandidate_-_with_problems\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\TestCandidate_-_with_problems\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.exe
+C:\Users\USER\Downloads\TestCandidate_-_with_problems\TestCandidate - with problems\1. TestCandidate.UI\TestCandidate.App\obj\Debug\TestCandidate.App.pdb

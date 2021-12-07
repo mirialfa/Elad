@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EladModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameCity" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Street" Relationship="Self.FK__Street__CityID__3E52440B" FromRole="City" ToRole="Street" />
+  </EntityType>
+  <EntityType Name="Street">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameStreet" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CityID" Type="Int32" />
+    <NavigationProperty Name="City" Relationship="Self.FK__Street__CityID__3E52440B" FromRole="Street" ToRole="City" />
+  </EntityType>
+  <Association Name="FK__Street__CityID__3E52440B">
+    <End Role="City" Type="Self.City" Multiplicity="0..1" />
+    <End Role="Street" Type="Self.Street" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Street">
+        <PropertyRef Name="CityID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EladEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="City" EntityType="Self.City" />
+    <EntitySet Name="Street" EntityType="Self.Street" />
+    <AssociationSet Name="FK__Street__CityID__3E52440B" Association="Self.FK__Street__CityID__3E52440B">
+      <End Role="City" EntitySet="City" />
+      <End Role="Street" EntitySet="Street" />
+    </AssociationSet>
+    <FunctionImport Name="CreateCity">
+      <Parameter Name="NameCity" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CreateStreet">
+      <Parameter Name="NameStreet" Mode="In" Type="String" />
+      <Parameter Name="NameCity" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="DeleteCity">
+      <Parameter Name="CityName" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="GetStreetsByCityId" ReturnType="Collection(EladModel.GetStreetsByCityId_Result)">
+      <Parameter Name="CityId" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="GetStreetsByCityId_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="NameStreet" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="CityID" Nullable="true" />
+  </ComplexType>
+</Schema>

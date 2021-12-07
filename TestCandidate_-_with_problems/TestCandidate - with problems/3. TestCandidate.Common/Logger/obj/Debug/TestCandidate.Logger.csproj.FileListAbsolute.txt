@@ -1,0 +1,3 @@
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\3. TestCandidate.Common\Logger\obj\Debug\TestCandidate.Logger.csproj.CoreCompileInputs.cache
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\3. TestCandidate.Common\Logger\obj\Debug\Logger.dll
+C:\Users\daniellA\Desktop\מבחן למועמד עם ניסיון - WebAPI\TestCandidate - with problems\3. TestCandidate.Common\Logger\obj\Debug\Logger.pdb

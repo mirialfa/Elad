@@ -1,0 +1,13 @@
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Common\Logger\bin\Debug\Logger.dll
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Common\Logger\bin\Debug\Logger.pdb
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Common\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Common\Logger\obj\Debug\Logger.dll
+C:\Guy\CodeSamples\TestCandidate\4. TestCandidate.Common\Logger\obj\Debug\Logger.pdb
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.Common\Logger\bin\Debug\Logger.dll
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.Common\Logger\bin\Debug\Logger.pdb
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.Common\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.Common\Logger\obj\Debug\Logger.dll
+C:\Guy\CodeSamples\TestCandidate\3. TestCandidate.Common\Logger\obj\Debug\Logger.pdb
+C:\Guy\CodeSamples\TestCandidate - Copy (2)\3. TestCandidate.Common\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Guy\CodeSamples\TestCandidate - Copy (2)\3. TestCandidate.Common\Logger\obj\Debug\Logger.dll
+C:\Guy\CodeSamples\TestCandidate - Copy (2)\3. TestCandidate.Common\Logger\obj\Debug\Logger.pdb
